@@ -19,5 +19,3 @@ let tempInFahrenheit = 100
 let celcius = (tempInFahrenheit - 32) * (5/9)
 
 console.log("Temp in celcius is "  + celcius)
-
-console.log("Hey I'm trying out github")
