@@ -1,0 +1,2 @@
+Declare variables using let only , avoid using var
+
