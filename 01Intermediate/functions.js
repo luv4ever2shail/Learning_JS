@@ -17,7 +17,7 @@ console.log(result);
 console.log(total(2, 4));
 
 
-let guestUser = function (name = 'NoName', count =0) {
+let guestUser = function (name = 'NoName', count = 0) {
     return 'Hello ' + name + ' and your course count is : ' + count
     
 }
