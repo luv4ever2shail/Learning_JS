@@ -1,2 +1,15 @@
 Declare variables using let only , avoid using var
 
+
+difference between programming language and framework
+
+
+for present : - FLutter is a framework, the language which flutter is written on
+                and the language which requires to use the flutter - is also dart.
+
+                dart is a programming language.
+
+               javascript is a programming language
+               while react, angular, viewjs, nodejs, electron, amber, react native, are framework
+
+
